@@ -1,0 +1,5 @@
+USE master
+GO
+ALTER DATABASE [dbname]
+SET ONLINE
+GO
